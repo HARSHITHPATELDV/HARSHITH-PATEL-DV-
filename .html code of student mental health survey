@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="STUDENT MENTAL HEALTH SURVEY .">
+    <title>STUDENT MENTAL HEALTH SURVEY</title>
+</head>
+<body>
+    <header>
+        <h1 style="text-align: center; text-decoration: underline; color: darkblue;">STUDENT MENTAL HEALTH SURVEY</h1>
+        <p style="text-align: center; font-style: italic;">A Survey on Listening Habits and Trends</p>
+    </header>
+
+    <nav style="text-align: center; margin: 20px 0;">
+        <a href="#about" style="margin: 0 15px;">About</a>
+        <a href="survey.html" style="margin: 0 15px;">Survey</a>
+        <a href="results.html" style="margin: 0 15px;">Results</a>
+        <a href="team members.html" style="margin: 0 15px;">Team Details</a>
+    </nav>
+
+    <!DOCTYPE html>
+    <html lang="en">
+    <head>
+        <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Center Image</title>
+    <style>
+        .center-image 
+        {
+            display: block;
+            margin: 0 auto;
+            text-align: center;
+        }
+    </style>
+    </head>
+
+    <img src="https://varthana.com/student/wp-content/uploads/2023/10/B593-Student.jpg" alt="Sample Image" class="center-image" />
+    
+
+    
+
+  
+    <div class="container" style="margin: 20px;">
+        <section id="about">
+            <h2 style="color: darkgreen;">About</h2>
+            <p style="line-height: 1.6; text-align: justify;">
+                The objective of this report is to analyze and present the findings from the student mental health survey, focusing on the mental well-being of students. <br> The primary aim is to assess the overall mental health of the student body, identifying key issues such as stress, anxiety, depression, and psychological distress. <br> The report will also explore how academic pressures, social factors, and extracurricular activities contribute to these mental health challenges. <br> In addition, it will evaluate students' awareness of mental health resources available on campus and examine their help-seeking behaviors, with an emphasis on identifying barriers that may prevent students from accessing support.
+            </p>
+            <p style="line-height: 1.6; text-align: justify;">
+                A description of the structure of the survey, including the types of questions it contains, such as closed-ended, open-ended, Likert scale, etc., and topics covered, like stress, anxiety, coping mechanisms, academic pressure, etc., <br> and scales used to assess the level of a mental health problem.            </p>
+        </section>
+    </div>
+</body>
+</html>
